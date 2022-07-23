@@ -4,6 +4,10 @@
 
 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
 
+$ git clone https://github.com/username/repo.git
+Username: your_username
+Password: your_token
+
 <!---
 project-88188/project-88188 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
